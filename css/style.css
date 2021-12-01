@@ -1,0 +1,346 @@
+.container
+{
+	width: 98vw;
+	height: 100vh;
+}
+.row
+{
+	display: flex;
+}
+.my-logo
+{
+	width: 50vw;
+	height: 100vh;
+	background-color: black;
+}
+.my-logo h1
+{
+	text-align: center;
+	margin-top: 10vh;
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.my-logo ul
+{
+	text-align: center;
+	margin-top: 10vh;
+	color: white;
+}
+.my-logo ul li
+{
+	list-style: none;
+	margin-top: 10vh;
+	font-family: verdana;
+	cursor: default;
+}
+
+.about-me
+{
+	width: 50vw;
+	height: 100vh;
+	background-color: #687c8c;
+}
+.about-me h1
+{
+	text-align: center;
+	margin-top: 10vh;
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.about-me img
+{
+	width: 20vw;
+	height: 40vh;
+	border-radius: 20vw;
+	margin-left: 15vw;
+	cursor: default;
+}
+.about-me p
+{
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: justify;
+	color: white;
+	cursor: default;
+}
+
+.my-work
+{
+	width: 49.2vw;
+	height: 120vh;
+	background-color: #f1f1f1;
+}
+.my-work h1
+{
+	text-align: center;
+	margin-top: 10vh;
+	color: black;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.my-work p
+{
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: center;
+	margin-top: -3vh;
+	color: black;
+	font-size: 200%;
+	cursor: default;
+	font-family: verdana;
+}
+.my-work img
+{
+	width: 25vw;
+	height: 20vh;
+}
+
+.resume
+{
+	width: 49.1vw;
+	height: 120vh;
+	background-color: #3f51b5;
+}
+.resume h1
+{
+	text-align: center;
+	margin-top: 10vh;
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.resume p
+{
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: center;
+	margin-top: -3vh;
+	color: white;
+	font-size: 200%;
+	cursor: default;
+	font-family: verdana;
+}
+
+.resume h2
+{
+	width: 10vw;
+	height: 2vh;
+	color: white;
+	margin-left: 2vw;
+	font-size: 200%;
+	font-family: verdana;
+	font-weight: lighter;
+}
+
+.border
+{	
+	border: 1px solid white;
+	width: 45vw;
+	height: 8vh;
+	margin-left: 2vw;
+	margin-top: -3vh;
+	background-color: white;
+}
+
+.year
+{
+	width: 10vw;
+	height: 10vh;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 200%;
+	color: white;
+	margin-left: 2vw;
+	margin-top: 2vh;
+	cursor: default;
+}
+.title
+{
+	width: 25vw;
+	height: 10vh;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 200%;
+	color: white;
+	margin-left: 0vw;
+	margin-top: 2vh;
+	cursor: default;
+}
+.where
+{
+	width: 25vw;
+	height: 10vh;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 200%;
+	color: white;
+	margin-left: 0vw;
+	margin-top: 2vh;
+	cursor: default;
+}
+
+.date
+{
+	width: 9vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+.name
+{
+	width: 29vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+.location
+{
+	width: 25vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+
+.date1
+{
+	margin-left: 2vw;
+	margin-top: 1vh;
+	width: 8vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+.name1
+{
+	margin-top: 1vh;
+	width: 26vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+.location1
+{
+	margin-top: 1vh;
+	width: 25vw;
+	height: 10vh;
+	color: black;
+	font-size: 125%;
+	font-family: verdana;
+	cursor: default;
+}
+.swing-by
+{
+	width: 49.1vw;
+	height: 125vh;
+	background-color: #616161;
+}
+.swing-by h1
+{
+	text-align: center;
+	margin-top: 10vh;
+	margin-bottom: 25vh;
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.swing-by p
+{
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: center;
+	margin-top: 3vh;
+	color: white;
+	font-size: 200%;
+	cursor: default;
+	font-family: verdana;
+}
+.contact
+{
+	width: 49.1vw;
+	height: 125vh;
+	background-color: #009688;
+}
+.contact h1
+{
+	text-align: left;
+	margin-top: 10vh;
+	margin-left: 5vw;
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 500%;
+	cursor: default;
+}
+.contact p
+{
+	margin-left: 5vw;
+	margin-right: 5vw;
+	margin-bottom: 5vh;
+	text-align: left;
+	margin-top: 3vh;
+	color: white;
+	font-size: 150%;
+	cursor: default;
+	font-family: verdana;
+}
+.num-bor
+{
+
+	border: 1px solid white;
+	width: 40vw;
+	height: 75vh;
+	margin-left: 5vw;
+	background-color: white;
+}
+label
+{
+	display: inline-block;
+	font-size: 125%;
+	margin-left: 2vw;
+	height: 10vh;
+	margin-top: 5vh;
+	font-weight: normal;
+	font-family: verdana;
+}
+input
+{
+	border: none;
+	border-bottom: 1px solid lightgrey;
+	width: 35vw;
+	height: 4vh;
+	margin-left: 2vw;
+}
+.but
+{
+	padding: 20px 25px;
+	background-color: #009688;
+	border: none;
+	font-size: 100%;
+	color: white;
+	font-family: verdana;
+	float: right;
+	margin-top: 3vh;
+	margin-right: 2.8vw;
+}
